@@ -1,5 +1,3 @@
-## exists.one
-
 Here lies projects committed to helping the web3 community.
 
 ### Projects
